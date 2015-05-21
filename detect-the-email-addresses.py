@@ -1,4 +1,3 @@
-
 #Solution to https://www.hackerrank.com/challenges/detect-the-email-addresses
 
 # by: Strobes27
